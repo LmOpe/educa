@@ -17,6 +17,7 @@ djangorestframework = "*"
 requests = "*"
 channels = "*"
 channels-redis = "*"
+daphne = "*"
 
 [dev-packages]
 
